@@ -1,2 +1,2 @@
 # AiFlappyBirdNEAT
-Go to the Master branch for project
+Go to the __Master__ branch for project
